@@ -1,0 +1,32 @@
+{
+  "name": "img-convert",
+  "version": "1.0.0",
+  "description": "img ang base64 convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node ./bin/img-convert.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song111/imgConvert.git"
+  },
+  "keywords": [
+    "img",
+    "base64",
+    "convert"
+  ],
+  "author": "chrissong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/song111/imgConvert/issues"
+  },
+  "homepage": "https://github.com/song111/imgConvert#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^14.0.0"
+  },
+  "bin": {
+    "img-convert": "./bin/img-convert"
+  }
+}
