@@ -1,0 +1,2 @@
+# imgConvert
+一个图片转换工具可转换图片或者svg和base64的相互转换
