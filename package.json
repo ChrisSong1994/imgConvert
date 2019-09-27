@@ -2,7 +2,7 @@
   "name": "img-convert",
   "version": "1.0.0",
   "description": "img ang base64 convert",
-  "main": "index.js",
+  "main": "./lib/img-convert.js",
   "scripts": {
     "test": "test",
     "start": "node ./bin/img-convert.js"
