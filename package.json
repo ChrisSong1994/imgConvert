@@ -1,5 +1,5 @@
 {
-  "name": "img-convert",
+  "name": "img-converter",
   "version": "1.0.0",
   "description": "img ang base64 convert",
   "main": "./lib/img-convert.js",
